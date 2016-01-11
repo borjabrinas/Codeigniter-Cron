@@ -15,8 +15,6 @@
 		echo("Test ". $valor . $valor2);
 	}
 
-
-
 	*/
 	
 	$config['SERVER_NAME']         = 'localhost'; //The name of the server 
