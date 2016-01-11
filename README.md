@@ -1,8 +1,6 @@
 # Codeigniter-Cron
-Codeigniter Cron
 
 You can access all CodeIgniter controller methods via the command line.  Let’s start with a simple code
-
 
 Add to crontroller cron class.
 -----
@@ -12,7 +10,7 @@ Add to crontroller cron class.
   exit('No direct script url allowed');
 ```  
 
-Example Cron Class
+Example Cron Function
 -----
 
 ```php
